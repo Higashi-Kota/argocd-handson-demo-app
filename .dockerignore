@@ -1,0 +1,10 @@
+.git
+.gitignore
+.gitattributes
+build
+.gradle
+*.md
+LICENSE
+.idea
+.vscode
+*.iml
